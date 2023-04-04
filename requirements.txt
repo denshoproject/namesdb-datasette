@@ -1,0 +1,6 @@
+# dependencies used in all environments
+
+# Non-Python dependencies
+# sudo apt-get install python3-venv python3-pip supervisor
+
+datasette
