@@ -1,0 +1,3 @@
+Database files go here.
+They must be SQLite3 databases.
+You can symlink files from elsewhere.
