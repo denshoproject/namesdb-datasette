@@ -1,3 +1,5 @@
 Database files go here.
 They must be SQLite3 databases.
 You can symlink files from elsewhere.
+When you add a new database you have to restart:
+    sudo supervisorctl restart namesdbdatasette
